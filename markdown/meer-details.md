@@ -49,22 +49,17 @@ Postbus 0520
 2509 LM Den Haag  
 info@nationaalarchief.nl
 
+<table class="plain-table" width="auto">
+<tr>
+<td><img src="images/by-sa.png" width="150px"></td>
+<td>Dit document valt onder de volgende licentie: <br>
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.en">Creative Commons Attribution 4.0 International Public License</a>
+</td>
+</tr>
+</table>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|      |
+| :--- |
 <!--
 
 
@@ -97,20 +92,8 @@ info@nationaalarchief.nl
 | ----------------- | ------------------------------------------------------------------------------------------------------ |
 | Nationaal Archief | Prins Willem-Alexanderhof 20 Den Haag<br>Postbus 0520 <br>2509 LM Den Haag<br>info@nationaalarchief.nl |
 
-
-<table class="plain-table" width="auto">
-<tr>
-<td><img src="images/by-sa.png" width="150px"></td>
-<td>Dit document valt onder de volgende licentie: <br>
-    <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.en">Creative Commons Attribution 4.0 International Public License</a>
-</td>
-</tr>
-</table>
 --> 
-|     |
-| --- |
 
 
 
 
-</details>
